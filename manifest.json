@@ -24,5 +24,11 @@
 
   "permissions": [
     "nativeMessaging"
-  ]
+  ],
+
+  "applications": {
+    "gecko": {
+      "id": "browser-mpris2@otommod"
+    }
+  }
 }
